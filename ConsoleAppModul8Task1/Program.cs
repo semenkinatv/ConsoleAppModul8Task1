@@ -1,6 +1,6 @@
 ﻿using System;
 using System.IO;
-namespace Modul8Task1
+namespace Modul8Task1 
 {
     class Program
     {
